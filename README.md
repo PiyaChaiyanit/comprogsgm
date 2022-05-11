@@ -1,15 +1,6 @@
-# Name
+# Healthy Assistant
 -------
 Project Computer Programming
-
-งานกลุ่มเราเป็นชิ้นงานแอพลิเคชั่นที่ทำการรวบรวม idea ต่างๆ \
-สำหรับคนที่คิดไม่ออกว่าจะทำอะไร ณ เวลานั้น \
-เราสามารถถามเพื่อขอความเห็นได้ว่า ทำอะไรดี
-
-
--------
-# Website
-------
 
 
 
@@ -19,7 +10,7 @@ Project Computer Programming
 # Clip-video
 ------
 
-
+https://www.youtube.com/watch?v=UsAHFABvxAs
 
 ------
 # Poster

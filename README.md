@@ -20,7 +20,7 @@
 ------
 # ➡️Poster⬅️
 ------
-![Poster (download)](Poster/Poster.jpg)
+![Poster (download)](Poster/Poster.png)
 
 
 
